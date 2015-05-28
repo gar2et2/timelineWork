@@ -164,8 +164,22 @@ header h1 {
   background: #ffffff;
 }
 .cd-timeline-img.cd-avolution {
+  background: #2eabc1;
+}
+.cd-timeline-img.cd-civica {
+  background: #3c3b89;
+}
+.cd-timeline-img.cd-monash {
   background: #ffffff;
 }
+.cd-timeline-img.cd-cse {
+  background: #ffffff;
+}
+.cd-timeline-img.cd-melbourne {
+  background: #ffffff;
+}
+
+
 @media only screen and (min-width: 1170px) {
   .cd-timeline-img {
     width: 60px;
